@@ -1,0 +1,5 @@
+Laptop | Electrónica | 15000 | 10
+Mouse | Accesorios | 300 | 25
+Teclado | Accesorios | 700 | 15
+Monitor | Electrónica | 4500 | 8
+USB | Almacenamiento | 200 | 30

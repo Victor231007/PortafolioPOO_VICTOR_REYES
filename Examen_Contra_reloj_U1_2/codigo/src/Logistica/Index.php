@@ -1,5 +1,6 @@
 <?php
-require_once 'src/Logistica/Paquete.php';
+// Todos los archivos están en la misma carpeta (src/Logistica), así que se llaman directo
+require_once 'Paquete.php';
 require_once 'Sensor.php';
 
 use Src\Logistica\Paquete;
@@ -10,6 +11,8 @@ $paqueteB = new Paquete();
 $paqueteA->codigoSeguimiento = "ZA-12345";
 $paqueteA->pesoKilogramos = 5.5;
 $paqueteA->esFragil = true;
+
+// $paqueteA->costoInterno = 100;
 
 $sensorPlanta = new Sensor();
 $sensorPlanta->id = 1;

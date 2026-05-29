@@ -24,7 +24,7 @@ En este proyecto de la Unidad 3 se profundizaron y aplicaron los siguientes conc
 A continuación se muestran las evidencias de la ejecución del sistema de consumo energético[cite: 1]:
 
 **Interfaz del sistema / Consola con resultados de consumo:**
-![Evidencia Consumo Energético](capturas/Evidencia_consumo.png)
+![Evidencia Consumo Energético](capturas/Evidencia Consumo Energético.png)
 
 ## 7. Instrucciones de ejecución
 Para desplegar y probar de forma local este módulo, siga los pasos correspondientes[cite: 1]:
